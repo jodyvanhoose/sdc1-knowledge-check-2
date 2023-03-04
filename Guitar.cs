@@ -9,6 +9,6 @@ namespace SDC1KnowledgeCheck2
     public class Guitar
     {
         public int Strings = 6;
-        public string Brand;
+        public string Brand { get; set; }
     }
 }
