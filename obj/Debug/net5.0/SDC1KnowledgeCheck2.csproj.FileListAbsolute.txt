@@ -1,0 +1,16 @@
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.exe
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.deps.json
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.runtimeconfig.json
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.runtimeconfig.dev.json
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.dll
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\ref\SDC1KnowledgeCheck2.dll
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\bin\Debug\net5.0\SDC1KnowledgeCheck2.pdb
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.csproj.AssemblyReference.cache
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.AssemblyInfo.cs
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.dll
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\ref\SDC1KnowledgeCheck2.dll
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.pdb
+C:\Users\jody_\source\repos\SDC1KnowledgeCheck2\obj\Debug\net5.0\SDC1KnowledgeCheck2.genruntimeconfig.cache
